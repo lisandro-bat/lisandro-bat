@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy lisandro</h1>
 
-<!--
-**lisandro-bat/lisandro-bat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Aprendiendo:  
+  `>>` C++ y python
+
+
+- 🤓 Me interesa:  
+  `>>` el hacking de los juegos, ingenieria inversa y todo lo que tenga que ver con programacion/cracking y computacion
+
+---
+
+## 🛠️ Tecnologías que uso
+
+### Lenguajes
+
+![Python]
+![C++]
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="Stats de GitHub" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 🚧 Proyectos destacados
+
+- 🎮 [CS 1.6 Radio Macro](https://github.com/lisandro-bat/spammer-radio) – Proyecto educativo para automatización de comandos en CS 1.6
+---
+
+## 📫 Contacto
+
+- 💬 Discord: TuNombre#0001
+
+
+---
+
