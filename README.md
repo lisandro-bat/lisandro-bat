@@ -24,8 +24,12 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lisandro-bat&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandro-bat&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisandro-batshow_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandro-bat&layout=compact&theme=radical" />
+</p>
 
 
 ---
