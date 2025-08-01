@@ -24,12 +24,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisandro&show_icons=true&theme=radical" alt="Stats de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=licha&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licha&layout=compact&theme=radical" />
+
 
 ---
 
