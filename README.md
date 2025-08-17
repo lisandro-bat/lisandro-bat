@@ -17,7 +17,7 @@
 
 - 🌐 Integrante de las comunidades:  
   - [**KEYGEN2009**](https://www.youtube.com/@KeyGen2009) | [Discord](https://discord.gg/B8Nm8Ewggg)  
-  - [**notsnakesilent**](https://www.youtube.com/@notsnakesilent) | [Discord](https://discord.gg/ZgxbjMNHKW)
+  - [**NotsnakeSilent**](https://www.youtube.com/@notsnakesilent) | [Discord](https://discord.gg/ZgxbjMNHKW)
 
 ---
 
