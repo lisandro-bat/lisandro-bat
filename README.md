@@ -10,7 +10,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 🌱 Actualmente aprendiendo:  
-  `C++` · `Python`
+  `C++` · `Python`· `Assembly`
 
 - 🤓 Intereses:  
   Hacking de videojuegos · Ingeniería inversa · Cracking · Seguridad informática
