@@ -10,6 +10,9 @@
 - 🤓 Intereses:  
   Hacking de videojuegos · Ingeniería inversa · Cracking · Programación y computación en general
 
+- 🌐 Integrante de la comunidad:  
+  [**KEYGEN2009**](https://www.youtube.com/@KeyGen2009) | [Discord](https://discord.gg/B8Nm8Ewggg)
+
 ---
 
 ## 🛠️ Tecnologías que uso
