@@ -69,7 +69,7 @@
 
 <p align="center">
   💬 Discord: <strong>Floppa3210</strong><br>
-  🎮 <a href="https://steamcommunity.com/id/MILEIFAN/">
+    <a href="https://steamcommunity.com/id/MILEIFAN/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </p>
