@@ -1,46 +1,43 @@
-<h1 align="center">Hola 👋, soy lisandro</h1>
+<h1 align="center">👋 Hola, soy Lisandro</h1>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-- 🌱 Aprendiendo:  
-  `>>` C++ y python
+- 🌱 Actualmente aprendiendo:  
+  `C++` · `Python`
 
-
-- 🤓 Me interesa:  
-  `>>` el hacking de los juegos, ingenieria inversa y todo lo que tenga que ver con programacion/cracking y computacion
+- 🤓 Intereses:  
+  Hacking de videojuegos · Ingeniería inversa · Cracking · Programación y computación en general
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
 ### Lenguajes
-
-[Python]
-
-[C++]
+- 🐍 **Python**
+- 💻 **C++**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=lisandro-bat&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandro-bat&layout=compact&theme=radical" />
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisandro-bat&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandro-bat&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
 ## 🚧 Proyectos destacados
 
-- 🎮 [CS 1.6 Radio Macro](https://github.com/lisandro-bat/spammer-radio) – Proyecto para automatización de comandos en CS 1.6
+- 🎮 [**CS 1.6 Radio Macro**](https://github.com/lisandro-bat/spammer-radio)  
+  Proyecto para automatización de comandos en CS 1.6
+
 ---
 
 ## 📫 Contacto
 
-- 💬 Discord: Floppa3210
-
+- 💬 **Discord:** `Floppa3210`
 
 ---
-
