@@ -17,8 +17,9 @@
 
 ### Lenguajes
 
-![Python]
-![C++]
+[Python]
+
+[C++]
 
 ---
 
@@ -33,7 +34,7 @@
 
 ## 🚧 Proyectos destacados
 
-- 🎮 [CS 1.6 Radio Macro](https://github.com/lisandro-bat/spammer-radio) – Proyecto educativo para automatización de comandos en CS 1.6
+- 🎮 [CS 1.6 Radio Macro](https://github.com/lisandro-bat/spammer-radio) – Proyecto para automatización de comandos en CS 1.6
 ---
 
 ## 📫 Contacto
