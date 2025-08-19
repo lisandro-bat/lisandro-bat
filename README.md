@@ -18,9 +18,8 @@
 
 ---
 
-## ⌨️ Animación Fachera
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=💀+Hacker+de+Videojuegos;🔍+Ingeniería+Inversa;⚡+C%2B%2B+·+Python+·+ASM;🚀+Siempre+aprendiendo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=💀+cheater;🔍+Ingeniería+Inversa;⚡+C%2B%2B+·+Python+·+ASM;🚀+Siempre+aprendiendo" />
 </p>
 
 ---
@@ -86,4 +85,3 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
-<p align="center"><i>“El código es como la magia: poderoso si sabes conjurarlo”</i></p>
