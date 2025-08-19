@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=💀+cheater;🔍+Ingeniería+Inversa;⚡+C%2B%2B+·+Python+·+ASM;🚀+Siempre+aprendiendo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=💀+Cheater;🔍+Ingeniería+Inversa;⚡+C%2B%2B+·+Python+·+ASM;🚀+Siempre+aprendiendo" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 🌱 Actualmente aprendiendo:  
-  `C++` · `Python`· `Assembly`
+  `C++` · `Python` · `Assembly`
 
 - 🤓 Intereses:  
   Hacking de videojuegos · Ingeniería inversa · Cracking · Seguridad informática
@@ -64,6 +64,12 @@
 
 ---
 
+## 📈 Actividad
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lisandro-bat&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&hide_border=true)
+
+---
+
 ## 🚧 Proyectos destacados
 
 - 🎮 [**CS 1.6 Radio Macro**](https://github.com/lisandro-bat/spammer-radio)  
@@ -79,6 +85,18 @@
   <a href="https://steamcommunity.com/id/MILEIFAN/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 🎨 Extra
+
+![Visitas](https://komarev.com/ghpvc/?username=lisandro-bat&label=Profile%20Views&color=00ff99&style=flat)
+![Status](https://img.shields.io/badge/Always%20Coding-%E2%9C%94-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Hacker%20Mood-%F0%9F%92%80-blueviolet?style=for-the-badge)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 </p>
 
 ---
