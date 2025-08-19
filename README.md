@@ -90,9 +90,6 @@
 
 ---
 
-<p align="center"><i>"Code is like magic, but real hackers write the spells."</i></p>
-
----
 
 ![Visitas](https://komarev.com/ghpvc/?username=lisandro-bat&label=Profile%20Views&color=00ff99&style=flat)
 ![Status](https://img.shields.io/badge/Always%20Coding-%E2%9C%94-green?style=for-the-badge)
