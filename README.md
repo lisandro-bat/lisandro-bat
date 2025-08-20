@@ -35,7 +35,7 @@
 
 ## ​ Proyectos Destacados
 
-- **[CS 1.6 Radio Macro](https://github.com/lisandro-bat/spammer-radio)**  
+- **[🎮CS 1.6 Radio Macro🎮](https://github.com/lisandro-bat/spammer-radio)**  
   Automatiza comandos en Counter-Strike 1.6.  
   ![preview](https://raw.githubusercontent.com/lisandro-bat/spammer-radio/main/demo.gif)
 
