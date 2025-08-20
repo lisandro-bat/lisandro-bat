@@ -125,7 +125,6 @@
 
 ---
 
-## 🏴‍☠️ Badges Hacker Style
 
 ![Badge](https://img.shields.io/badge/Reverse%20Engineer-%F0%9F%94%8D-critical?style=for-the-badge)  
 ![Badge](https://img.shields.io/badge/Code%20Wizard-%F0%9F%92%AB-blue?style=for-the-badge)  
