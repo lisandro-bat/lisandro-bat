@@ -130,6 +130,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lisandro-bat&theme=onedark&margin-w=15&margin-h=15">
 </p>
 
+
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lisandro-bat&theme=radical&hide_border=true" />
 </p>
