@@ -47,14 +47,14 @@
 
 ### 📌 Lenguajes de Programación
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,assembly,html,css,js,c,cs,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html" />
 </p>
 
 ---
 
 ### 🗄️ Bases de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
