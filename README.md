@@ -92,6 +92,32 @@
 
 ---
 
+## 🧠 Quotes Random
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🌍 Visitors por país
+
+![visitors](https://visitcount.itsvg.in/api?id=lisandro-bat&label=Profile%20Views&color=12&icon=5&pretty=true)
+
+---
+
+## 📊 Lenguajes y Resumen
+
+![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisandro-bat&theme=radical)  
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisandro-bat&theme=radical)
+
+---
+
+## 🏴‍☠️ Badges Hacker Style
+
+![Badge](https://img.shields.io/badge/Reverse%20Engineer-%F0%9F%94%8D-critical?style=for-the-badge)  
+![Badge](https://img.shields.io/badge/Code%20Wizard-%F0%9F%92%AB-blue?style=for-the-badge)
+
+---
+
 ## 📫 Contacto
 
 <p align="center">
