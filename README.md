@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lisandro&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Hacking%20|%20Reverse%20Engineering%20|%20Code%20Wizard&descAlignY=55&descAlign=50)
 
 <h1 align="center">👋 Hola, soy Lisandro</h1>
+<h3 align="center">💻 Desarrollador · Ethical Hacker · Reverse Engineer</h3>
 
 <p align="center">
   💻 Apasionado por la programación, el hacking de videojuegos y la ingeniería inversa.  
@@ -16,8 +17,6 @@
   </a>
 </p>
 
-<p align="center">───────────────────────────────</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=💀+Cheater;🔍+Ingeniería+Inversa;⚡+C%2B%2B+·+Python+·+ASM;🚀+Siempre+aprendiendo" />
 </p>
@@ -26,27 +25,66 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🌱 Actualmente aprendiendo:  
-  `C++` · `Python` · `Assembly`
-
-- 🤓 Intereses:  
-  Hacking de videojuegos · Ingeniería inversa · Cracking · Seguridad informática
-
-- 🌐 Integrante de las comunidades:  
-  - [**KEYGEN2009**](https://www.youtube.com/@KeyGen2009) | [Discord](https://discord.gg/B8Nm8Ewggg)  
-  - [**NotsnakeSilent**](https://www.youtube.com/@notsnakesilent) | [Discord](https://discord.gg/ZgxbjMNHKW)
+- 🚀 Apasionado por la **ciberseguridad, el reverse engineering y la programación de bajo nivel**.  
+- 🕵️‍♂️ Experiencia con herramientas de análisis estático/dinámico y pentesting.  
+- ⚙️ Fan de Linux, scripting y automatización.  
+- 🎨 También disfruto del diseño digital y la edición multimedia.  
+- 🌱 Aprendiendo y mejorando todos los días en el mundo del **ethical hacking y el desarrollo full-stack**.  
 
 ---
 
 ## 🛠️ Skills
 
+### 📌 Lenguajes de Programación
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,bash,mysql,vscode,linux,windows" /><br>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/x64dbg-1A1A1A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,assembly,html,css,js,c,cs,java" />
+</p>
+
+---
+
+### 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+</p>
+
+---
+
+### 🖥️ Sistemas Operativos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,android" />
+</p>
+
+---
+
+### 🔐 Ciberseguridad & Reverse Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-%23013243.svg?logo=nmap&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp_Suite-%23FF5722.svg?logo=burpsuite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-%23007ACC.svg?logo=linux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IDA_Pro-%23000000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-%23FF0000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-%23000000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheat%20Engine-%2300BFFF.svg?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ DevOps & Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?logo=openvpn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anydesk-%23EF443B.svg?logo=anydesk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TeamViewer-%230066CC.svg?logo=teamviewer&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🎨 Diseño & Multimedia
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-%23000000.svg?logo=davinciresolve&logoColor=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -71,14 +109,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-- 🎮 [**CS 1.6 Radio Macro**](https://github.com/lisandro-bat/spammer-radio)  
-  Automatización de comandos en Counter-Strike 1.6  
-  ![preview](https://raw.githubusercontent.com/lisandro-bat/spammer-radio/main/demo.gif)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,11 +120,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lisandro-bat&theme=onedark&margin-w=15&margin-h=15">
 </p>
 
-
----
-
-## 📊 Lenguajes y Resumen
-
 ![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisandro-bat&theme=radical)  
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisandro-bat&theme=radical)
 
@@ -103,7 +128,10 @@
 ## 🏴‍☠️ Badges Hacker Style
 
 ![Badge](https://img.shields.io/badge/Reverse%20Engineer-%F0%9F%94%8D-critical?style=for-the-badge)  
-![Badge](https://img.shields.io/badge/Code%20Wizard-%F0%9F%92%AB-blue?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Code%20Wizard-%F0%9F%92%AB-blue?style=for-the-badge)  
+![Badge](https://img.shields.io/badge/Ethical%20Hacker-%F0%9F%95%B5%EF%B8%8F-green?style=for-the-badge)  
+![Badge](https://img.shields.io/badge/Open%20Source-%E2%9C%A8-orange?style=for-the-badge)
+
 
 ---
 
@@ -121,9 +149,5 @@
 ![Visitas](https://komarev.com/ghpvc/?username=lisandro-bat&label=Profile%20Views&color=00ff99&style=flat)
 ![Status](https://img.shields.io/badge/Always%20Coding-%E2%9C%94-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Hacker%20Mood-%F0%9F%92%80-blueviolet?style=for-the-badge)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
