@@ -5,7 +5,7 @@
 
 <p align="center">
   💻 Apasionado por la programación, el hacking de videojuegos y la ingeniería inversa.  
-  Siempre aprendiendo, creando y explorando nuevas formas de entender la computación.  
+  Siempre aprendiendo, creando y explorando nuevas formas de entender la computación.
 </p>
 
 <p align="center">
@@ -23,40 +23,48 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## ​​​ Sobre mí
 
 - 🚀 Apasionado por la **ciberseguridad, el reverse engineering y la programación de bajo nivel**.  
 - 🕵️‍♂️ Experiencia con herramientas de análisis estático/dinámico y pentesting.  
 - ⚙️ Fan de Linux, scripting y automatización.  
 - 🎨 También disfruto del diseño digital y la edición multimedia.  
-- 🌱 Aprendiendo y mejorando todos los días en el mundo del **ethical hacking y el desarrollo full-stack**.  
+- 🌱 Aprendiendo y mejorando todos los días en el mundo del **ethical hacking y el desarrollo full-stack**.
 
 ---
 
-## 🛠️ Skills
+## ​ Proyectos Destacados
 
-### 📌 Lenguajes de Programación
+- **[CS 1.6 Radio Macro](https://github.com/lisandro-bat/spammer-radio)**  
+  Automatiza comandos en Counter-Strike 1.6.  
+  ![preview](https://raw.githubusercontent.com/lisandro-bat/spammer-radio/main/demo.gif)
+
+---
+
+## ​​ Skills
+
+###  Lenguajes de Programación
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,assembly,html,css,js,c,cs,java" />
 </p>
 
 ---
 
-### 🗄️ Bases de Datos
+###  Bases de Datos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 </p>
 
 ---
 
-### 🖥️ Sistemas Operativos
+###  Sistemas Operativos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,android" />
 </p>
 
 ---
 
-### 🔐 Ciberseguridad & Reverse Engineering
+###  Ciberseguridad & Reverse Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wireshark" />
   <img src="https://img.shields.io/badge/Nmap-%23013243.svg?logo=nmap&logoColor=white&style=for-the-badge" />
@@ -70,7 +78,7 @@
 
 ---
 
-### ⚙️ DevOps & Herramientas
+###  DevOps & Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white&style=for-the-badge" />
@@ -81,7 +89,7 @@
 
 ---
 
-### 🎨 Diseño & Multimedia
+###  Diseño & Multimedia
 <p align="center">
   <img src="https://skillicons.dev/icons?i=photoshop" />
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-%23000000.svg?logo=davinciresolve&logoColor=blue&style=for-the-badge" />
@@ -89,55 +97,68 @@
 
 ---
 
-## ⚙️ Mi Setup
+## ​​ Mi Setup
 
-💻 **PC Principal**  
-- ⚙️ **CPU:** Ryzen 5 5600G  
-- 🎮 **GPU:** RTX 3060 12GB (Colorful Advance)  
-- 🧠 **RAM:** 32GB 3200MHz (Dual Channel)  
-- 💾 **Almacenamiento:** SSD 512GB · SSD 240GB · HDD 1TB  
-- 🖥️ **Placa Madre:** Gigabyte B450M DS3H V2  
-- 🔌 **Fuente:** 650W 80+ Bronze  
+**PC Principal**  
+- **CPU:** Ryzen 5 5600G  
+- **GPU:** RTX 3060 12 GB (Colorful Advance)  
+- **RAM:** 32 GB 3200 MHz (Dual Channel)  
+- **Almacenamiento:** SSD 512 GB · SSD 240 GB · HDD 1 TB  
+- **Placa Madre:** Gigabyte B450M DS3H V2  
+- **Fuente:** 650 W 80+ Bronze  
 
-🖥️ **PC Secundaria**  
-- ⚙️ **CPU:** Ryzen 3 3200G *(próx: Ryzen 5 5500)*  
-- 🎮 **GPU:** RX 550 2GB *(próx: GTX 1660 Super)*  
-- 🧠 **RAM:** 16GB 3200MHz (Dual Channel) *(próx: 32GB)*  
-- 💾 **Almacenamiento:** SSD 512GB · HDD 1TB  
-- 🖥️ **Placa Madre:** ASRock B450M-HDV R4.0  
-- 🔌 **Fuente:** 600W 80+ Bronze  
+**PC Secundaria**  
+- **CPU:** Ryzen 3 3200G (próx: Ryzen 5 5500)  
+- **GPU:** RX 550 2 GB (próx: GTX 1660 Super)  
+- **RAM:** 16 GB 3200 MHz (próx: 32 GB)  
+- **Almacenamiento:** SSD 512 GB · HDD 1 TB  
+- **Placa Madre:** ASRock B450M-HDV R4.0  
+- **Fuente:** 600 W 80+ Bronze  
 
 ---
 
-## 📊 GitHub Stats
+## ​ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisandro-bat&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandro-bat&layout=compact&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisandro-bat&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandro-bat&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lisandro-bat&theme=onedark&margin-w=15&margin-h=15">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisandro-bat&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisandro-bat&theme=radical" />
 </p>
 
-![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisandro-bat&theme=radical)  
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisandro-bat&theme=radical)
-
 ---
 
-
-![Badge](https://img.shields.io/badge/Reverse%20Engineer-%F0%9F%94%8D-critical?style=for-the-badge)  
-![Badge](https://img.shields.io/badge/Code%20Wizard-%F0%9F%92%AB-blue?style=for-the-badge)  
-![Badge](https://img.shields.io/badge/Ethical%20Hacker-%F0%9F%95%B5%EF%B8%8F-green?style=for-the-badge)  
-![Badge](https://img.shields.io/badge/Open%20Source-%E2%9C%A8-orange?style=for-the-badge)
-
-
----
-
-## 📫 Contacto
-
+##  GitHub Trophies
 <p align="center">
-  💬 Discord: <strong>Floppa3210</strong><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=lisandro-bat&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+##  Actividad (Streak)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lisandro-bat&theme=radical&hide_border=true" />
+</p>
+
+---
+
+##  Badges Personalizados
+<p align="center">
+  <img src="https://img.shields.io/badge/Reverse%20Engineer-%F0%9F%94%8D-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code%20Wizard-%F0%9F%92%AB-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-%F0%9F%95%B5%EF%B8%8F-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%A8-orange?style=for-the-badge" />
+</p>
+
+
+---
+
+## ​ Contacto
+<p align="center">
+  💬 Discord: **Floppa3210**<br>
   <a href="https://steamcommunity.com/id/MILEIFAN/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
@@ -145,8 +166,8 @@
 
 ---
 
-![Visitas](https://komarev.com/ghpvc/?username=lisandro-bat&label=Profile%20Views&color=00ff99&style=flat)
-![Status](https://img.shields.io/badge/Always%20Coding-%E2%9C%94-green?style=for-the-badge)
+![Visitas](https://komarev.com/ghpvc/?username=lisandro-bat&label=Profile%20Views&color=00ff99&style=flat)  
+![Status](https://img.shields.io/badge/Always%20Coding-%E2%9C%94-green?style=for-the-badge)  
 ![Status](https://img.shields.io/badge/Hacker%20Mood-%F0%9F%92%80-blueviolet?style=for-the-badge)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
