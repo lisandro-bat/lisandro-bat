@@ -71,11 +71,24 @@
 
 ---
 
-## 🚧 Proyectos destacados
+## 🚀 Proyectos destacados
 
 - 🎮 [**CS 1.6 Radio Macro**](https://github.com/lisandro-bat/spammer-radio)  
   Automatización de comandos en Counter-Strike 1.6  
   ![preview](https://raw.githubusercontent.com/lisandro-bat/spammer-radio/main/demo.gif)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisandro-bat&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandro-bat&layout=compact&theme=radical" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lisandro-bat&theme=onedark&margin-w=15&margin-h=15">
+</p>
 
 ---
 
@@ -89,7 +102,6 @@
 </p>
 
 ---
-
 
 ![Visitas](https://komarev.com/ghpvc/?username=lisandro-bat&label=Profile%20Views&color=00ff99&style=flat)
 ![Status](https://img.shields.io/badge/Always%20Coding-%E2%9C%94-green?style=for-the-badge)
