@@ -90,17 +90,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lisandro-bat&theme=onedark&margin-w=15&margin-h=15">
 </p>
 
----
-
-## 🧠 Quotes Random
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🌍 Visitors por país
-
-![visitors](https://visitcount.itsvg.in/api?id=lisandro-bat&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ---
 
