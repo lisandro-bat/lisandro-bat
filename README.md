@@ -40,6 +40,12 @@
   Automatiza comandos en Counter-Strike 1.6.  
   ![preview](https://raw.githubusercontent.com/lisandro-bat/spammer-radio/main/demo.gif)
 
+---
+  
+- 🌐 Integrante de las comunidades:  
+  - [**KEYGEN2009**](https://www.youtube.com/@KeyGen2009) | [Discord](https://discord.gg/B8Nm8Ewggg)  
+  - [**NotsnakeSilent**](https://www.youtube.com/@notsnakesilent) | [Discord](https://discord.gg/ZgxbjMNHKW)
+
 
 ---
 
